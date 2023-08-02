@@ -1,0 +1,8 @@
+{
+  "name": "Pooja_Pal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "b40cabe1"
+}
